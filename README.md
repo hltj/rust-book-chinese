@@ -7,7 +7,7 @@
 欢迎为本翻译文档做出贡献。
 
 ## 版本
-1.6.0-stable
+1.7.0-stable
 
 ## 电子书
 * 请使用 [GitBook](https://github.com/GitbookIO/gitbook) 来生成电子书。
@@ -17,6 +17,7 @@
 * 本文档 GitBook: https://www.gitbook.com/book/kaisery/rust-book-chinese
 * Rust 中文社区: https://rust-china.org
 * QQ 群: 144605258
+* QQ 2 群： 303838735
 * 聊天频道：https://chat.rust-china.org/
 
 ## 贡献者
