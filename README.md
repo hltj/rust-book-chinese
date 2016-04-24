@@ -2,12 +2,15 @@
 
 本作品采用 [知识共享署名 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
 
-# Rust 官方教程 中文版
+# Rust 程序设计语言 中文版
 本文档为 [*The Rust Programming Language*](https://doc.rust-lang.org/book/) 的中文翻译。  
 欢迎为本翻译文档做出贡献。
 
+## 墙内地址
+[rustbook.cn](http://rustbook.cn/) 由[掘金](http://gold.xitu.io/)赞助
+
 ## 版本
-1.7.0-stable
+1.8.0-stable
 
 ## 电子书
 * 请使用 [GitBook](https://github.com/GitbookIO/gitbook) 来生成电子书。
